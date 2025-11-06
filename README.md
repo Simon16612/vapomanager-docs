@@ -27,230 +27,6 @@
 [2.3 Atributos de calidad
 [14](#atributos-de-calidad)](#atributos-de-calidad)
 
-[2.3.1 Atributo calidad 1 [14](#_Toc181301414)](#_Toc181301414)
-
-[2.3.1.1 Característica 1 [14](#_Toc181301415)](#_Toc181301415)
-
-[2.3.1.1.1 Escenario de calidad 1 [14](#_Toc181301416)](#_Toc181301416)
-
-[2.3.1.1.2 Escenario de calidad 2 [15](#_Toc181301417)](#_Toc181301417)
-
-[2.3.1.1.3 Escenario de calidad 3 [15](#_Toc181301418)](#_Toc181301418)
-
-[2.3.1.1.4 Escenario de calidad 4 [15](#_Toc181301419)](#_Toc181301419)
-
-[2.3.1.1.5 Escenario de calidad 5 [16](#_Toc181301420)](#_Toc181301420)
-
-[2.3.1.1.6 Escenario de calidad 6 [16](#_Toc181301421)](#_Toc181301421)
-
-[2.3.1.2 Característica 2 [16](#_Toc181301422)](#_Toc181301422)
-
-[2.3.1.2.1 Escenario de calidad 1 [16](#_Toc181301423)](#_Toc181301423)
-
-[2.3.1.2.2 Escenario de calidad 2 [17](#_Toc181301424)](#_Toc181301424)
-
-[2.3.1.2.3 Escenario de calidad 3 [17](#_Toc181301425)](#_Toc181301425)
-
-[2.3.1.2.4 Escenario de calidad 4 [17](#_Toc181301426)](#_Toc181301426)
-
-[2.3.1.2.5 Escenario de calidad 5 [18](#_Toc181301427)](#_Toc181301427)
-
-[2.3.1.2.6 Escenario de calidad 6 [18](#_Toc181301428)](#_Toc181301428)
-
-[2.3.1.2.7 Escenario de calidad 7 [18](#_Toc181301429)](#_Toc181301429)
-
-[2.3.1.2.8 Escenario de calidad 8 [19](#_Toc181301430)](#_Toc181301430)
-
-[2.3.1.2.9 Escenario de calidad 9 [19](#_Toc181301431)](#_Toc181301431)
-
-[2.3.1.2.10 Escenario de calidad 10
-[19](#_Toc181301432)](#_Toc181301432)
-
-[2.3.1.2.11 Escenario de calidad 11
-[19](#_Toc181301433)](#_Toc181301433)
-
-[2.3.1.2.12 Escenario de calidad 12
-[20](#_Toc181301434)](#_Toc181301434)
-
-[2.3.2 Atributo calidad 2 [20](#_Toc181301435)](#_Toc181301435)
-
-[2.3.2.1 Característica 1 [20](#_Toc181301436)](#_Toc181301436)
-
-[2.3.2.1.1 Escenario de calidad 1 [20](#_Toc181301437)](#_Toc181301437)
-
-[2.3.2.1.2 Escenario de calidad 2 [21](#_Toc181301438)](#_Toc181301438)
-
-[2.3.2.1.3 Escenario de calidad 3 [21](#_Toc181301439)](#_Toc181301439)
-
-[2.3.2.1.4 Escenario de calidad 4 [21](#_Toc181301440)](#_Toc181301440)
-
-[2.3.2.1.5 Escenario de calidad 5 [22](#_Toc181301441)](#_Toc181301441)
-
-[2.3.2.2 Característica 2 [22](#_Toc181301442)](#_Toc181301442)
-
-[2.3.2.2.1 Escenario de calidad 1 [22](#_Toc181301443)](#_Toc181301443)
-
-[2.3.2.2.2 Escenario de calidad 2 [22](#_Toc181301444)](#_Toc181301444)
-
-[2.3.2.2.3 Escenario de calidad 3 [23](#_Toc181301445)](#_Toc181301445)
-
-[2.3.2.2.4 Escenario de calidad 4 [23](#_Toc181301446)](#_Toc181301446)
-
-[2.3.2.2.5 Escenario de calidad 5 [23](#_Toc181301447)](#_Toc181301447)
-
-[2.3.3 Atributo calidad 3 [24](#_Toc181301448)](#_Toc181301448)
-
-[2.3.3.1 Característica 1 [24](#_Toc181301449)](#_Toc181301449)
-
-[2.3.3.1.1 Escenario de calidad 1 [24](#_Toc181301450)](#_Toc181301450)
-
-[2.3.3.1.2 Escenario de calidad 2 [24](#_Toc181301451)](#_Toc181301451)
-
-[2.3.3.1.3 Escenario de calidad 3 [24](#_Toc181301452)](#_Toc181301452)
-
-[2.3.3.1.4 Escenario de calidad 4 [25](#_Toc181301453)](#_Toc181301453)
-
-[2.3.3.1.5 Escenario de calidad 5 [25](#_Toc181301454)](#_Toc181301454)
-
-[2.3.3.1.6 Escenario de calidad 6 [25](#_Toc181301455)](#_Toc181301455)
-
-[2.3.3.1.7 Escenario de calidad 7 [26](#_Toc181301456)](#_Toc181301456)
-
-[2.3.3.1.8 Escenario de calidad 8 [26](#_Toc181301457)](#_Toc181301457)
-
-[2.3.3.1.9 Escenario de calidad 9 [26](#_Toc181301458)](#_Toc181301458)
-
-[2.3.3.1.10 Escenario de calidad 10
-[26](#_Toc181301459)](#_Toc181301459)
-
-[2.3.3.1.11 Escenario de calidad 11
-[27](#_Toc181301460)](#_Toc181301460)
-
-[2.3.3.1.12 Escenario de calidad 12
-[27](#_Toc181301461)](#_Toc181301461)
-
-[2.3.3.1.13 Escenario de calidad 13
-[27](#_Toc181301462)](#_Toc181301462)
-
-[2.3.3.1.14 Escenario de calidad 14
-[27](#_Toc181301463)](#_Toc181301463)
-
-[2.3.3.1.15 Escenario de calidad 15
-[28](#_Toc181301464)](#_Toc181301464)
-
-[2.3.3.1.16 Escenario de calidad 16
-[28](#_Toc181301465)](#_Toc181301465)
-
-[2.3.3.1.17 Escenario de calidad 17
-[28](#_Toc181301466)](#_Toc181301466)
-
-[2.3.3.1.18 Escenario de calidad 18
-[29](#_Toc181301467)](#_Toc181301467)
-
-[2.3.3.2 Característica 2 [29](#_Toc181301468)](#_Toc181301468)
-
-[2.3.3.2.1 Escenario de calidad 1 [29](#_Toc181301469)](#_Toc181301469)
-
-[2.3.3.2.2 Escenario de calidad 2 [29](#_Toc181301470)](#_Toc181301470)
-
-[2.3.3.2.3 Escenario de calidad 3 [30](#_Toc181301471)](#_Toc181301471)
-
-[2.3.3.2.4 Escenario de calidad 4 [30](#_Toc181301472)](#_Toc181301472)
-
-[2.3.3.2.5 Escenario de calidad 5 [30](#_Toc181301473)](#_Toc181301473)
-
-[2.3.3.2.6 Escenario de calidad 6 [30](#_Toc181301474)](#_Toc181301474)
-
-[2.3.3.2.7 Escenario de calidad 7 [31](#_Toc181301475)](#_Toc181301475)
-
-[2.3.3.2.8 Escenario de calidad 8 [31](#_Toc181301476)](#_Toc181301476)
-
-[2.3.3.2.9 Escenario de calidad 9 [31](#_Toc181301477)](#_Toc181301477)
-
-[2.3.3.2.10 Escenario de calidad 10
-[31](#_Toc181301478)](#_Toc181301478)
-
-[2.3.3.2.11 Escenario de calidad 11
-[32](#_Toc181301479)](#_Toc181301479)
-
-[2.3.3.2.12 Escenario de calidad 12
-[32](#_Toc181301480)](#_Toc181301480)
-
-[2.3.3.2.13 Escenario de calidad 13
-[32](#_Toc181301481)](#_Toc181301481)
-
-[2.3.3.2.14 Escenario de calidad 14
-[33](#_Toc181301482)](#_Toc181301482)
-
-[2.3.3.2.15 Escenario de calidad 15
-[33](#_Toc181301483)](#_Toc181301483)
-
-[2.3.3.2.16 Escenario de calidad 16
-[33](#_Toc181301484)](#_Toc181301484)
-
-[2.3.3.2.17 Escenario de calidad 17
-[33](#_Toc181301485)](#_Toc181301485)
-
-[2.3.4 Atributo calidad 4 [34](#_Toc181301486)](#_Toc181301486)
-
-[2.3.4.1 Característica 1 [34](#_Toc181301487)](#_Toc181301487)
-
-[2.3.4.1.1 Escenario de calidad 1 [34](#_Toc181301488)](#_Toc181301488)
-
-[2.3.4.1.2 Escenario de calidad 2 [34](#_Toc181301489)](#_Toc181301489)
-
-[2.3.4.1.3 Escenario de calidad 3 [35](#_Toc181301490)](#_Toc181301490)
-
-[2.3.4.1.4 Escenario de calidad 4 [35](#_Toc181301491)](#_Toc181301491)
-
-[2.3.4.1.5 Escenario de calidad 5 [35](#_Toc181301492)](#_Toc181301492)
-
-[2.3.4.1.6 Escenario de calidad 6 [36](#_Toc181301493)](#_Toc181301493)
-
-[2.3.4.1.7 Escenario de calidad 7 [36](#_Toc181301494)](#_Toc181301494)
-
-[2.3.4.1.8 Escenario de calidad 8 [36](#_Toc181301495)](#_Toc181301495)
-
-[2.3.4.1.9 Escenario de calidad 9 [36](#_Toc181301496)](#_Toc181301496)
-
-[2.3.4.2 Característica 2 [37](#_Toc181301497)](#_Toc181301497)
-
-[2.3.4.2.1 Escenario de calidad 1 [37](#_Toc181301498)](#_Toc181301498)
-
-[2.3.4.2.2 Escenario de calidad 2 [37](#_Toc181301499)](#_Toc181301499)
-
-[2.3.4.2.3 Escenario de calidad 3 [37](#_Toc181301500)](#_Toc181301500)
-
-[2.3.4.2.4 Escenario de calidad 4 [38](#_Toc181301501)](#_Toc181301501)
-
-[2.3.5 Atributo calidad 5 [38](#_Toc181301502)](#_Toc181301502)
-
-[2.3.5.1 Característica 1 [38](#_Toc181301503)](#_Toc181301503)
-
-[2.3.5.1.1 Escenario de calidad 1 [38](#_Toc181301504)](#_Toc181301504)
-
-[2.3.5.1.2 Escenario de calidad 2 [39](#_Toc181301505)](#_Toc181301505)
-
-[2.3.5.1.3 Escenario de calidad 3 [39](#_Toc181301506)](#_Toc181301506)
-
-[2.3.5.1.4 Escenario de calidad 4 [39](#_Toc181301507)](#_Toc181301507)
-
-[2.3.5.1.5 Escenario de calidad 5 [39](#_Toc181301508)](#_Toc181301508)
-
-[2.3.5.1.6 Escenario de calidad 6 [40](#_Toc181301509)](#_Toc181301509)
-
-[2.3.5.2 Característica 2 [40](#_Toc181301510)](#_Toc181301510)
-
-[2.3.5.2.1 Escenario de calidad 1 [40](#_Toc181301511)](#_Toc181301511)
-
-[2.3.5.2.2 Escenario de calidad 2 [41](#_Toc181301512)](#_Toc181301512)
-
-[2.3.5.2.3 Escenario de calidad 3 [41](#_Toc181301513)](#_Toc181301513)
-
-[2.3.5.2.4 Escenario de calidad 4 [41](#_Toc181301514)](#_Toc181301514)
-
-[2.3.5.2.5 Escenario de calidad 5 [41](#_Toc181301515)](#_Toc181301515)
-
 [2.4 Funcionalidades críticas
 [42](#funcionalidades-críticas)](#funcionalidades-críticas)
 
@@ -380,49 +156,49 @@
 [9.3.1 Diagrama de componentes
 [96](#diagrama-de-componentes)](#diagrama-de-componentes)
 
-[9.3.1.1 Componente zbank-perfiles-ms
+[9.3.1.1 Componente VapoManager-perfiles-ms
 [96](#_Toc181301569)](#_Toc181301569)
 
 [9.3.1.1.1 Diagrama [97](#_Toc181301570)](#_Toc181301570)
 
 [9.3.1.1.2 Documentación [97](#_Toc181301571)](#_Toc181301571)
 
-[9.3.1.2 Componente zbank-divisas-ms
+[9.3.1.2 Componente VapoManager-divisas-ms
 [99](#_Toc181301572)](#_Toc181301572)
 
 [9.3.1.2.1 Diagrama [99](#_Toc181301573)](#_Toc181301573)
 
 [9.3.1.2.2 Documentación [100](#_Toc181301574)](#_Toc181301574)
 
-[9.3.1.3 Componente zbank-categoría-ms
+[9.3.1.3 Componente VapoManager-categoría-ms
 [101](#_Toc181301575)](#_Toc181301575)
 
 [9.3.1.3.1 Diagrama [102](#_Toc181301576)](#_Toc181301576)
 
 [9.3.1.3.2 Documentación [102](#_Toc181301577)](#_Toc181301577)
 
-[9.3.1.4 Componente zbank-registrosfinancieros-ms
+[9.3.1.4 Componente VapoManager-registrosfinancieros-ms
 [104](#_Toc181301578)](#_Toc181301578)
 
 [9.3.1.4.1 Diagrama [104](#_Toc181301579)](#_Toc181301579)
 
 [9.3.1.4.2 Documentación [104](#_Toc181301580)](#_Toc181301580)
 
-[9.3.1.5 Componente zbank-metas-ms
+[9.3.1.5 Componente VapoManager-metas-ms
 [106](#_Toc181301581)](#_Toc181301581)
 
 [9.3.1.5.1 Diagrama [107](#_Toc181301582)](#_Toc181301582)
 
 [9.3.1.5.2 Documentación [107](#_Toc181301583)](#_Toc181301583)
 
-[9.3.1.6 Componente zbank-notificaciones-ms
+[9.3.1.6 Componente VapoManager-notificaciones-ms
 [108](#_Toc181301584)](#_Toc181301584)
 
 [9.3.1.6.1 Diagrama [109](#_Toc181301585)](#_Toc181301585)
 
 [9.3.1.6.2 Documentación [109](#_Toc181301586)](#_Toc181301586)
 
-[9.3.1.7 Componente zbank-logros-ms
+[9.3.1.7 Componente VapoManager-logros-ms
 [110](#_Toc181301587)](#_Toc181301587)
 
 [9.3.1.7.1 Diagrama [110](#_Toc181301588)](#_Toc181301588)
@@ -432,7 +208,7 @@
 [9.3.2 Diagrama de paquetes
 [112](#diagrama-de-paquetes)](#diagrama-de-paquetes)
 
-[9.3.2.1 Componente zbank-\<\<component\>\>-ms
+[9.3.2.1 Componente VapoManager-\<\<component\>\>-ms
 [112](#componente-vapomanager-component-ms)](#componente-vapomanager-component-ms)
 
 [9.3.2.1.1 Diagrama [113](#diagrama)](#diagrama)
@@ -1231,9 +1007,9 @@ objeticos iniciales del proyecto.
 ## Línea base arquitectónica de componentes
 
 A continuación, se van a presentar cada uno de los componentes empleados
-en la construcción de Zbank, detallando la motivación y descripción del
+en la construcción de VapoManager, detallando la motivación y descripción del
 componente. Este análisis permitirá comprender mejor las decisiones
-arquitectónicas y tecnologías que sustentan el desarrollo de Zbank,
+arquitectónicas y tecnologías que sustentan el desarrollo de VapoManager,
 asegurando que cada componente cumpla con los objetivos establecidos y
 contribuya al funcionamiento eficiente y seguro del sistema.
 
@@ -1663,7 +1439,7 @@ deseados.
 
 ## Justificación
 
-La alternativa de solución propuesta para Zbank, basada en una
+La alternativa de solución propuesta para VapoManager, basada en una
 arquitectura hexagonal (clean architecture) integrada con un sistema de
 componentes externos como WAF, CDN, API Gateway, y un proveedor de
 identidad, es la más adecuada para resolver las necesidades operativas,
@@ -1686,7 +1462,7 @@ externo, fortalece la protección de los datos de los usuarios. Estos
 elementos de seguridad son críticos, pues la naturaleza de la
 aplicación, que maneja información sensible como datos financieros y
 personales, exige los mayores estándares de protección para fomentar la
-confianza del usuario en Zbank.
+confianza del usuario en VapoManager.
 
 El uso de un Message Broker también representa una ventaja
 significativa, pues permite una comunicación asíncrona y eficiente entre
@@ -1696,14 +1472,14 @@ datos y soportando el procesamiento de transacciones en tiempo real.
 Esta solución no solo cumple con las restricciones de diseño
 identificadas en cuanto a seguridad, escalabilidad y experiencia de
 usuario, sino que también alinea las capacidades tecnológicas con la
-visión de Zbank de ser una herramienta integral, segura, y eficiente
+visión de VapoManager de ser una herramienta integral, segura, y eficiente
 para la gestión financiera personal.
 
 ## Ventajas
 
 **Escalabilidad Modular:** La arquitectura hexagonal permite agregar o
 modificar módulos sin interrumpir otros componentes del sistema. Esto es
-crucial para Zbank, ya que permite incorporar nuevas funcionalidades o
+crucial para VapoManager, ya que permite incorporar nuevas funcionalidades o
 actualizar componentes de forma ágil, soportando el crecimiento de la
 aplicación y el incremento de usuarios.
 
@@ -1714,7 +1490,7 @@ ataques cibernéticos, especialmente los que afectan a aplicaciones
 financieras, mejorando la confianza de los usuarios.
 
 **Desempeño Optimizado:** Al integrar un CDN y un sistema de caché, el
-frontend de Zbank se carga rápidamente en cualquier ubicación,
+frontend de VapoManager se carga rápidamente en cualquier ubicación,
 optimizando la experiencia de usuario incluso durante picos de tráfico.
 Esto asegura que la aplicación sea rápida y ágil para todos los
 usuarios, independientemente de su ubicación o conexión.
@@ -1748,7 +1524,7 @@ correctamente cada parte de la solución.
 tantos componentes externos y módulos internos implica un esfuerzo de
 mantenimiento significativo. Esto se traduce en mayores costos
 operativos y en la necesidad de un equipo especializado para gestionar
-la infraestructura de Zbank.
+la infraestructura de VapoManager.
 
 **Curva de Aprendizaje Elevada:** La adopción de una arquitectura
 hexagonal y la integración de varios servicios requiere que el equipo de
@@ -1759,7 +1535,7 @@ para asegurar una implementación efectiva.
 **Dependencia de Servicios Externos:** El uso de servicios externos,
 como el proveedor de identidad y el CDN, puede llevar a depender de su
 disponibilidad y rendimiento. Si alguno de estos servicios falla, podría
-afectar negativamente la experiencia del usuario en Zbank y comprometer
+afectar negativamente la experiencia del usuario en VapoManager y comprometer
 la disponibilidad de ciertos servicios.
 
 **Posible Latencia en la Comunicación:** En una arquitectura de
