@@ -10,7 +10,7 @@
 >
 > José Alejandro Valencia Henao
 
-# Contenido {#contenido .TOC-Heading}
+# Contenido
 
 [**1.** **Propósito del proyecto**
 [8](#propósito-del-proyecto)](#propósito-del-proyecto)
@@ -26,6 +26,230 @@
 
 [2.3 Atributos de calidad
 [14](#atributos-de-calidad)](#atributos-de-calidad)
+
+[2.3.1 Atributo calidad 1 [14](#_Toc181301414)](#_Toc181301414)
+
+[2.3.1.1 Característica 1 [14](#_Toc181301415)](#_Toc181301415)
+
+[2.3.1.1.1 Escenario de calidad 1 [14](#_Toc181301416)](#_Toc181301416)
+
+[2.3.1.1.2 Escenario de calidad 2 [15](#_Toc181301417)](#_Toc181301417)
+
+[2.3.1.1.3 Escenario de calidad 3 [15](#_Toc181301418)](#_Toc181301418)
+
+[2.3.1.1.4 Escenario de calidad 4 [15](#_Toc181301419)](#_Toc181301419)
+
+[2.3.1.1.5 Escenario de calidad 5 [16](#_Toc181301420)](#_Toc181301420)
+
+[2.3.1.1.6 Escenario de calidad 6 [16](#_Toc181301421)](#_Toc181301421)
+
+[2.3.1.2 Característica 2 [16](#_Toc181301422)](#_Toc181301422)
+
+[2.3.1.2.1 Escenario de calidad 1 [16](#_Toc181301423)](#_Toc181301423)
+
+[2.3.1.2.2 Escenario de calidad 2 [17](#_Toc181301424)](#_Toc181301424)
+
+[2.3.1.2.3 Escenario de calidad 3 [17](#_Toc181301425)](#_Toc181301425)
+
+[2.3.1.2.4 Escenario de calidad 4 [17](#_Toc181301426)](#_Toc181301426)
+
+[2.3.1.2.5 Escenario de calidad 5 [18](#_Toc181301427)](#_Toc181301427)
+
+[2.3.1.2.6 Escenario de calidad 6 [18](#_Toc181301428)](#_Toc181301428)
+
+[2.3.1.2.7 Escenario de calidad 7 [18](#_Toc181301429)](#_Toc181301429)
+
+[2.3.1.2.8 Escenario de calidad 8 [19](#_Toc181301430)](#_Toc181301430)
+
+[2.3.1.2.9 Escenario de calidad 9 [19](#_Toc181301431)](#_Toc181301431)
+
+[2.3.1.2.10 Escenario de calidad 10
+[19](#_Toc181301432)](#_Toc181301432)
+
+[2.3.1.2.11 Escenario de calidad 11
+[19](#_Toc181301433)](#_Toc181301433)
+
+[2.3.1.2.12 Escenario de calidad 12
+[20](#_Toc181301434)](#_Toc181301434)
+
+[2.3.2 Atributo calidad 2 [20](#_Toc181301435)](#_Toc181301435)
+
+[2.3.2.1 Característica 1 [20](#_Toc181301436)](#_Toc181301436)
+
+[2.3.2.1.1 Escenario de calidad 1 [20](#_Toc181301437)](#_Toc181301437)
+
+[2.3.2.1.2 Escenario de calidad 2 [21](#_Toc181301438)](#_Toc181301438)
+
+[2.3.2.1.3 Escenario de calidad 3 [21](#_Toc181301439)](#_Toc181301439)
+
+[2.3.2.1.4 Escenario de calidad 4 [21](#_Toc181301440)](#_Toc181301440)
+
+[2.3.2.1.5 Escenario de calidad 5 [22](#_Toc181301441)](#_Toc181301441)
+
+[2.3.2.2 Característica 2 [22](#_Toc181301442)](#_Toc181301442)
+
+[2.3.2.2.1 Escenario de calidad 1 [22](#_Toc181301443)](#_Toc181301443)
+
+[2.3.2.2.2 Escenario de calidad 2 [22](#_Toc181301444)](#_Toc181301444)
+
+[2.3.2.2.3 Escenario de calidad 3 [23](#_Toc181301445)](#_Toc181301445)
+
+[2.3.2.2.4 Escenario de calidad 4 [23](#_Toc181301446)](#_Toc181301446)
+
+[2.3.2.2.5 Escenario de calidad 5 [23](#_Toc181301447)](#_Toc181301447)
+
+[2.3.3 Atributo calidad 3 [24](#_Toc181301448)](#_Toc181301448)
+
+[2.3.3.1 Característica 1 [24](#_Toc181301449)](#_Toc181301449)
+
+[2.3.3.1.1 Escenario de calidad 1 [24](#_Toc181301450)](#_Toc181301450)
+
+[2.3.3.1.2 Escenario de calidad 2 [24](#_Toc181301451)](#_Toc181301451)
+
+[2.3.3.1.3 Escenario de calidad 3 [24](#_Toc181301452)](#_Toc181301452)
+
+[2.3.3.1.4 Escenario de calidad 4 [25](#_Toc181301453)](#_Toc181301453)
+
+[2.3.3.1.5 Escenario de calidad 5 [25](#_Toc181301454)](#_Toc181301454)
+
+[2.3.3.1.6 Escenario de calidad 6 [25](#_Toc181301455)](#_Toc181301455)
+
+[2.3.3.1.7 Escenario de calidad 7 [26](#_Toc181301456)](#_Toc181301456)
+
+[2.3.3.1.8 Escenario de calidad 8 [26](#_Toc181301457)](#_Toc181301457)
+
+[2.3.3.1.9 Escenario de calidad 9 [26](#_Toc181301458)](#_Toc181301458)
+
+[2.3.3.1.10 Escenario de calidad 10
+[26](#_Toc181301459)](#_Toc181301459)
+
+[2.3.3.1.11 Escenario de calidad 11
+[27](#_Toc181301460)](#_Toc181301460)
+
+[2.3.3.1.12 Escenario de calidad 12
+[27](#_Toc181301461)](#_Toc181301461)
+
+[2.3.3.1.13 Escenario de calidad 13
+[27](#_Toc181301462)](#_Toc181301462)
+
+[2.3.3.1.14 Escenario de calidad 14
+[27](#_Toc181301463)](#_Toc181301463)
+
+[2.3.3.1.15 Escenario de calidad 15
+[28](#_Toc181301464)](#_Toc181301464)
+
+[2.3.3.1.16 Escenario de calidad 16
+[28](#_Toc181301465)](#_Toc181301465)
+
+[2.3.3.1.17 Escenario de calidad 17
+[28](#_Toc181301466)](#_Toc181301466)
+
+[2.3.3.1.18 Escenario de calidad 18
+[29](#_Toc181301467)](#_Toc181301467)
+
+[2.3.3.2 Característica 2 [29](#_Toc181301468)](#_Toc181301468)
+
+[2.3.3.2.1 Escenario de calidad 1 [29](#_Toc181301469)](#_Toc181301469)
+
+[2.3.3.2.2 Escenario de calidad 2 [29](#_Toc181301470)](#_Toc181301470)
+
+[2.3.3.2.3 Escenario de calidad 3 [30](#_Toc181301471)](#_Toc181301471)
+
+[2.3.3.2.4 Escenario de calidad 4 [30](#_Toc181301472)](#_Toc181301472)
+
+[2.3.3.2.5 Escenario de calidad 5 [30](#_Toc181301473)](#_Toc181301473)
+
+[2.3.3.2.6 Escenario de calidad 6 [30](#_Toc181301474)](#_Toc181301474)
+
+[2.3.3.2.7 Escenario de calidad 7 [31](#_Toc181301475)](#_Toc181301475)
+
+[2.3.3.2.8 Escenario de calidad 8 [31](#_Toc181301476)](#_Toc181301476)
+
+[2.3.3.2.9 Escenario de calidad 9 [31](#_Toc181301477)](#_Toc181301477)
+
+[2.3.3.2.10 Escenario de calidad 10
+[31](#_Toc181301478)](#_Toc181301478)
+
+[2.3.3.2.11 Escenario de calidad 11
+[32](#_Toc181301479)](#_Toc181301479)
+
+[2.3.3.2.12 Escenario de calidad 12
+[32](#_Toc181301480)](#_Toc181301480)
+
+[2.3.3.2.13 Escenario de calidad 13
+[32](#_Toc181301481)](#_Toc181301481)
+
+[2.3.3.2.14 Escenario de calidad 14
+[33](#_Toc181301482)](#_Toc181301482)
+
+[2.3.3.2.15 Escenario de calidad 15
+[33](#_Toc181301483)](#_Toc181301483)
+
+[2.3.3.2.16 Escenario de calidad 16
+[33](#_Toc181301484)](#_Toc181301484)
+
+[2.3.3.2.17 Escenario de calidad 17
+[33](#_Toc181301485)](#_Toc181301485)
+
+[2.3.4 Atributo calidad 4 [34](#_Toc181301486)](#_Toc181301486)
+
+[2.3.4.1 Característica 1 [34](#_Toc181301487)](#_Toc181301487)
+
+[2.3.4.1.1 Escenario de calidad 1 [34](#_Toc181301488)](#_Toc181301488)
+
+[2.3.4.1.2 Escenario de calidad 2 [34](#_Toc181301489)](#_Toc181301489)
+
+[2.3.4.1.3 Escenario de calidad 3 [35](#_Toc181301490)](#_Toc181301490)
+
+[2.3.4.1.4 Escenario de calidad 4 [35](#_Toc181301491)](#_Toc181301491)
+
+[2.3.4.1.5 Escenario de calidad 5 [35](#_Toc181301492)](#_Toc181301492)
+
+[2.3.4.1.6 Escenario de calidad 6 [36](#_Toc181301493)](#_Toc181301493)
+
+[2.3.4.1.7 Escenario de calidad 7 [36](#_Toc181301494)](#_Toc181301494)
+
+[2.3.4.1.8 Escenario de calidad 8 [36](#_Toc181301495)](#_Toc181301495)
+
+[2.3.4.1.9 Escenario de calidad 9 [36](#_Toc181301496)](#_Toc181301496)
+
+[2.3.4.2 Característica 2 [37](#_Toc181301497)](#_Toc181301497)
+
+[2.3.4.2.1 Escenario de calidad 1 [37](#_Toc181301498)](#_Toc181301498)
+
+[2.3.4.2.2 Escenario de calidad 2 [37](#_Toc181301499)](#_Toc181301499)
+
+[2.3.4.2.3 Escenario de calidad 3 [37](#_Toc181301500)](#_Toc181301500)
+
+[2.3.4.2.4 Escenario de calidad 4 [38](#_Toc181301501)](#_Toc181301501)
+
+[2.3.5 Atributo calidad 5 [38](#_Toc181301502)](#_Toc181301502)
+
+[2.3.5.1 Característica 1 [38](#_Toc181301503)](#_Toc181301503)
+
+[2.3.5.1.1 Escenario de calidad 1 [38](#_Toc181301504)](#_Toc181301504)
+
+[2.3.5.1.2 Escenario de calidad 2 [39](#_Toc181301505)](#_Toc181301505)
+
+[2.3.5.1.3 Escenario de calidad 3 [39](#_Toc181301506)](#_Toc181301506)
+
+[2.3.5.1.4 Escenario de calidad 4 [39](#_Toc181301507)](#_Toc181301507)
+
+[2.3.5.1.5 Escenario de calidad 5 [39](#_Toc181301508)](#_Toc181301508)
+
+[2.3.5.1.6 Escenario de calidad 6 [40](#_Toc181301509)](#_Toc181301509)
+
+[2.3.5.2 Característica 2 [40](#_Toc181301510)](#_Toc181301510)
+
+[2.3.5.2.1 Escenario de calidad 1 [40](#_Toc181301511)](#_Toc181301511)
+
+[2.3.5.2.2 Escenario de calidad 2 [41](#_Toc181301512)](#_Toc181301512)
+
+[2.3.5.2.3 Escenario de calidad 3 [41](#_Toc181301513)](#_Toc181301513)
+
+[2.3.5.2.4 Escenario de calidad 4 [41](#_Toc181301514)](#_Toc181301514)
+
+[2.3.5.2.5 Escenario de calidad 5 [41](#_Toc181301515)](#_Toc181301515)
 
 [2.4 Funcionalidades críticas
 [42](#funcionalidades-críticas)](#funcionalidades-críticas)
@@ -163,7 +387,7 @@
 
 [9.3.1.1.2 Documentación [97](#_Toc181301571)](#_Toc181301571)
 
-[9.3.1.2 Componente VapoManager-divisas-ms
+[9.3.1.2 Componente VampoManager-divisas-ms
 [99](#_Toc181301572)](#_Toc181301572)
 
 [9.3.1.2.1 Diagrama [99](#_Toc181301573)](#_Toc181301573)
@@ -191,7 +415,7 @@
 
 [9.3.1.5.2 Documentación [107](#_Toc181301583)](#_Toc181301583)
 
-[9.3.1.6 Componente VapoManager-notificaciones-ms
+[9.3.1.6 Componente VampoManager-notificaciones-ms
 [108](#_Toc181301584)](#_Toc181301584)
 
 [9.3.1.6.1 Diagrama [109](#_Toc181301585)](#_Toc181301585)
@@ -274,56 +498,57 @@ y correcciones rápidas.
 Las restricciones técnicas son condiciones que deben cumplirse durante
 el desarrollo y que afectan el diseño e implementación del sistema.
 
-**Tipo: Diseño**\
+**Tipo: Diseño**  
 • **Se debe propender por la aplicación de prácticas basadas en Clean
-Architecture.**\
+Architecture.**  
 Beneficia al cliente porque separa el núcleo del negocio (ventas,
 pedidos, inventario) de la UI y la persistencia, facilitando cambios sin
 reescribir todo y reduciendo retrabajo y costos de evolución.
 
-**Tipo: Implementación**\
+**Tipo: Implementación**  
 • **Se debe propender por la aplicación de prácticas relacionadas con
-Clean Code.**\
+Clean Code.**  
 Menos defectos y menor tiempo de soporte: código legible acelera el
 onboarding y baja el costo de mantenimiento del sistema.
 
-**Tipo: Diseño**\
+**Tipo: Diseño**  
 • **Se debe propender por la aplicación de patrones de diseño que
-promuevan bajo acoplamiento y alta cohesión.**\
+promuevan bajo acoplamiento y alta cohesión.**  
 Permite que los cambios (por ejemplo, en precios o reservas) afecten
 módulos puntuales, haciendo el sistema más extensible y estable para el
 negocio.
 
-**Tipo: Implementación**\
+**Tipo: Implementación**  
 • **Se debe propender por la adopción de prácticas de DevOps con
-integración continua y entrega continua simple.**\
+integración continua y entrega continua simple.**  
 Entregas pequeñas detectan fallos temprano y permiten mostrar valor en
 cada iteración, con despliegues más seguros y rápidos.
 
-**Tipo: Metodológico**\
+**Tipo: Metodológico**  
 • **Se debe propender por la adopción de metodologías ágiles ligeras
-(Scrum + prácticas XP seleccionadas).**\
+(Scrum + prácticas XP seleccionadas).**  
 Iteraciones cortas con feedback del cliente priorizan valor real (MVP →
 mejoras), ajustando alcance según necesidades del negocio sin
 burocracia.
 
-**Tipo: Implementación/Operación**\
+**Tipo: Implementación/Operación**  
 • **Se debe propender por aplicar los 12 factores de aplicación de forma
 selectiva** (configuración por entorno, dependencias declaradas, logs
-centralizables).\
+centralizables).  
 Facilita mover el sistema entre desarrollo/pruebas/producción sin
 sorpresas y mejora la confiabilidad operativa con bajo costo para el
 proyecto.
 
-**Tipo: Diseño**\
+**Tipo: Diseño**  
 • **Se debe propender por la adopción de bloques de construcción
-reutilizables** (componentes de UI y módulos de dominio).\
+reutilizables** (componentes de UI y módulos de dominio).  
 Acelera el desarrollo y mantiene consistencia: reutilizar tablas,
 formularios y módulos de catálogo/ventas reduce tiempos y errores.
 
-**Tipo: Metodológico**\
+**Tipo: Metodológico**  
 • **Se debe propender por documentación mínima y viva** (README
-ejecutable, decisiones de arquitectura breves y especificación de API).\
+ejecutable, decisiones de arquitectura breves y especificación de
+API).  
 Garantiza continuidad del proyecto y soporte: cualquier integrante
 entiende cómo ejecutar, desplegar y usar la API, reduciendo dependencia
 de personas.
@@ -334,95 +559,95 @@ Las restricciones de negocio son condiciones que debemos cumplir para
 alinear el desarrollo con las metas operativas y comerciales
 de **VapoManager**.
 
-**Tipo: Humano**\
+**Tipo: Humano**  
 • **Debe existir Product Owner (PO) titular y suplente con poder de
-decisión y SLA de respuesta ≤ 48 h para definiciones clave.**\
+decisión y SLA de respuesta ≤ 48 h para definiciones clave.**  
 Sin decisiones a tiempo, el proyecto se frena; un PO disponible evita
 reprocesos y bloqueos.
 
 • **Participación activa de expertos de negocio (ventas, compras,
-inventario, finanzas) en refinamiento y UAT de historias críticas.**\
+inventario, finanzas) en refinamiento y UAT de historias críticas.**  
 El negocio valida temprano, detecta fallas antes de salir a producción y
 asegura que el alcance refleje la realidad operativa.
 
 • **Disponibilidad del PO en sesiones fijas e inamovibles; si no puede
-asistir, delega a alguien con decisión informada.**\
+asistir, delega a alguien con decisión informada.**  
 Sin PO presente, las definiciones se dilatan y se multiplican los
 retrabajos.
 
 • **Capacitación por rol (asesores, bodega, administrador) y manual
-corto de operación.**\
+corto de operación.**  
 Reduce errores y dependencia del equipo técnico; mejora adopción y
 soporte.
 
 • **Las decisiones de producto deben estar guiadas por métricas (margen,
-costos, ventas).**\
+costos, ventas).**  
 Evita reportes contradictorios y malas decisiones; orienta el backlog a
 impacto real.
 
 • **Equipo de desarrollo pequeño (3 devs): se prioriza alcance crítico y
-se limita el trabajo en paralelo (WIP).**\
+se limita el trabajo en paralelo (WIP).**  
 Capacidad limitada implica foco para mantener calidad y tiempos.
 
 • **Seguridad y cumplimiento: el equipo define políticas mínimas
 aplicables desde el inicio (OWASP básico, contraseñas, datos
-personales).**\
+personales).**  
 Previene riesgos y auditorías fallidas; protege la confianza del
 cliente.
 
 • **Asignar dueños de datos maestros (catálogo, listas de precio,
-impuestos) responsables de su calidad.**\
+impuestos) responsables de su calidad.**  
 Catálogos sanos evitan errores en ventas y costos; habilitan reportes
 confiables.
 
-**Tipo: Proceso**\
+**Tipo: Proceso**  
 • **Reservar stock al registrar pedido con una ventana de tiempo; si no
-se paga, el sistema cancela y libera.**\
+se paga, el sistema cancela y libera.**  
 Evita inventario atrapado y sobreventa.
 
 • **Política de devoluciones clara (≤ 15 días; estado del producto;
-motivo y documento soporte).**\
+motivo y documento soporte).**  
 Controla costos y garantiza transparencia con el cliente.
 
 • **Bitácora obligatoria de operaciones sensibles (precios, costos,
-inventario, pedidos).**\
+inventario, pedidos).**  
 Trazabilidad y seguridad: quién hizo qué y cuándo, con exportación para
 auditoría.
 
 • **Precio mínimo y descuentos: vender bajo el costo solo con
-autorización expresa del Administrador.**\
+autorización expresa del Administrador.**  
 Protege margen y sostenibilidad del negocio.
 
 • **Frente a defectos en procesos, trabajar de forma incremental con
-evaluación frecuente del cliente.**\
+evaluación frecuente del cliente.**  
 Reduce reprocesos y alinea expectativas; mejora el time-to-value.
 
 • **Cierre de día con conciliación por rol; definir los SLOs de soporte
-funcional e incidentes.**\
+funcional e incidentes.**  
 Asegura operación estable y respuesta oportuna ante fallas.
 
-**Tipo: Presupuesto**\
+**Tipo: Presupuesto**  
 • **Tope de costo operativo (p. ej., hasta 30 M COP/año) sumando
-servicios cloud, implementaciones y mantenimiento.**\
+servicios cloud, implementaciones y mantenimiento.**  
 Evita sobrecostos; prioriza lo esencial y garantiza viabilidad.
 
 • **El cliente destina recursos y horas; la incertidumbre de definición
-no puede poner en riesgo avances.**\
+no puede poner en riesgo avances.**  
 Disciplina en alcance y decisiones; evita retrasos por falta de insumos
 del negocio.
 
-**Tipo: Legal / Cumplimiento**\
+**Tipo: Legal / Cumplimiento**  
 • **Cumplimiento de privacidad (habeas data) y protección de datos
-personales.**\
+personales.**  
 Los datos de usuarios deben manejarse con protocolos estrictos de
 seguridad y consentimiento.
 
-• **Cumplimiento normativo en comunicaciones y publicidad.**\
+• **Cumplimiento normativo en comunicaciones y publicidad.**  
 Las campañas deben ajustarse a la normativa para evitar sanciones por
 mensajes engañosos.
 
 • **Auditorías periódicas de seguridad y cumplimiento por terceros
-acreditados.**\
+acreditados.**  
 Detectan y corrigen vulnerabilidades e incumplimientos, manteniendo la
 operación conforme a la ley.
 
@@ -440,9 +665,9 @@ de datos en tránsito/en reposo. Indicadores: incidentes de seguridad =
 0, caducidad de sesión, cobertura de auditoría.
 
 Confiabilidad. Datos siempre consistentes entre
-ventas--inventario--reportes, trazabilidad de quién/qué/cuándo y
-respaldos verificados. Indicadores: diferencias de cuadres = 0,
-restauraciones de prueba exitosas.
+ventas–inventario–reportes, trazabilidad de quién/qué/cuándo y respaldos
+verificados. Indicadores: diferencias de cuadres = 0, restauraciones de
+prueba exitosas.
 
 Disponibilidad. Servicio estable en horario de atención y recuperación
 rápida ante fallos. Indicadores: SLO de disponibilidad, MTTR y
@@ -468,26 +693,26 @@ registro, tiempos de generación de reportes (asíncronos).
 
 ## Escenarios de Calidad
 
-![](media/image1.emf){width="6.652475940507436in"
-height="4.642732939632546in"}
+<img src="media/media/image1.emf"
+style="width:6.65248in;height:4.64273in" />
 
-![](media/image2.emf){width="6.649463035870516in"
-height="3.38492125984252in"}
+<img src="media/media/image2.emf"
+style="width:6.64946in;height:3.38492in" />
 
 ## Funcionalidades críticas
 
-> ![](media/image3.emf){width="6.198537839020123in"
-> height="4.018740157480315in"}
+> <img src="media/media/image3.emf"
+> style="width:6.19854in;height:4.01874in" />
 
 # **Tácticas y estrategias** 
 
-![](media/image4.emf){width="7.199059492563429in"
-height="4.511833989501312in"}
+<img src="media/media/image4.emf"
+style="width:7.19906in;height:4.51183in" />
 
 # **Modelo de contexto**
 
-![](media/image5.png){width="4.228485345581802in"
-height="3.395138888888889in"}
+<img src="media/media/image5.png"
+style="width:4.22849in;height:3.39514in" />
 
 Base de datos
 
@@ -653,7 +878,8 @@ contenido multimedia y documentos del sistema.
 
 # **Arquetipo de solución/referencia** 
 
-![](media/image6.png){width="6.1375in" height="1.820138888888889in"}
+<img src="media/media/image6.png"
+style="width:6.1375in;height:1.82014in" />
 
 > Base de datos.
 >
@@ -857,8 +1083,8 @@ contenido multimedia y documentos del sistema.
 
 # **Arquitectura de solución/referencia**
 
-![](media/image7.png){width="6.638554243219597in"
-height="2.0265693350831144in"}
+<img src="media/media/image7.png"
+style="width:6.63855in;height:2.02657in" />
 
 WAF (Cloudflare WAF).
 
@@ -1899,7 +2125,8 @@ con las responsabilidades en la arquitectura de VapoManager.
 
 ## Diagrama
 
-![](media/image8.png){width="6.1375in" height="3.282638888888889in"}
+<img src="media/media/image8.png"
+style="width:6.1375in;height:3.28264in" />
 
 9.3.1.4 Componente vapomanager-paquetes
 
